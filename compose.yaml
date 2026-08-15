@@ -2,7 +2,8 @@
 # If you don't know what you're doing, you shouldn't be looking at this.
 services:
   spt-server:
-    image: ghcr.io/sp-tushonka/server-csharp:latest
+    image: spt-server:local
+    pull_policy: never
     container_name: spt-server
     restart: unless-stopped
     ports:

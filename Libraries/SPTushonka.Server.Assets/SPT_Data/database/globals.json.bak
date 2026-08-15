@@ -28561,8 +28561,8 @@
       "GlobalDamageDegradationCoefficient": 0.5
     },
     "BaseCheckTime": 3,
-    "BaseLoadTime": 0.1,
-    "BaseUnloadTime": 0.1,
+    "BaseLoadTime": 0.85,
+    "BaseUnloadTime": 0.3,
     "BluntDamageReduceFromSoftArmorMod": 0.6,
     "BodyPartColliderSettings": {
       "BackHead": {
@@ -34780,86 +34780,86 @@
       "isOnlyFoundInRaidAllowed": false,
       "maxActiveOfferCount": [
         {
-          "count": 10,
-          "countForSpecialEditions": 10,
+          "count": 1,
+          "countForSpecialEditions": 1,
           "from": -10000,
           "to": -10
         },
         {
-          "count": 20,
-          "countForSpecialEditions": 30,
+          "count": 2,
+          "countForSpecialEditions": 3,
           "from": -10,
           "to": -2
         },
         {
-          "count": 30,
-          "countForSpecialEditions": 40,
+          "count": 3,
+          "countForSpecialEditions": 4,
           "from": -2,
           "to": 0.2
         },
         {
-          "count": 40,
-          "countForSpecialEditions": 50,
+          "count": 4,
+          "countForSpecialEditions": 5,
           "from": 0.2,
           "to": 7
         },
         {
-          "count": 50,
-          "countForSpecialEditions": 60,
+          "count": 5,
+          "countForSpecialEditions": 6,
           "from": 7,
           "to": 30
         },
         {
-          "count": 60,
-          "countForSpecialEditions": 70,
+          "count": 6,
+          "countForSpecialEditions": 7,
           "from": 30,
           "to": 60
         },
         {
-          "count": 70,
-          "countForSpecialEditions": 80,
+          "count": 7,
+          "countForSpecialEditions": 8,
           "from": 60,
           "to": 100
         },
         {
-          "count": 70,
-          "countForSpecialEditions": 80,
+          "count": 7,
+          "countForSpecialEditions": 8,
           "from": 100,
           "to": 150
         },
         {
-          "count": 80,
-          "countForSpecialEditions": 90,
+          "count": 8,
+          "countForSpecialEditions": 9,
           "from": 150,
           "to": 200
         },
         {
-          "count": 90,
-          "countForSpecialEditions": 100,
+          "count": 9,
+          "countForSpecialEditions": 10,
           "from": 200,
           "to": 250
         },
         {
-          "count": 100,
-          "countForSpecialEditions": 110,
+          "count": 10,
+          "countForSpecialEditions": 11,
           "from": 250,
           "to": 500
         },
         {
-          "count": 110,
-          "countForSpecialEditions": 120,
+          "count": 11,
+          "countForSpecialEditions": 12,
           "from": 500,
           "to": 750
         },
         {
-          "count": 120,
-          "countForSpecialEditions": 130,
+          "count": 12,
+          "countForSpecialEditions": 13,
           "from": 750,
           "to": 1000
         },
         {
-          "count": 150,
-          "countForSpecialEditions": 160,
+          "count": 15,
+          "countForSpecialEditions": 16,
           "from": 1000,
           "to": 10000
         }
@@ -36560,11 +36560,11 @@
       "AimingSpeedMultiplier": 0.4,
       "BaseHoldBreathConsumption": 4,
       "BaseOverweightLimits": {
-        "x": 2600,
-        "y": 7700,
+        "x": 26,
+        "y": 77,
         "z": 0
       },
-      "BaseRestorationRate": 45,
+      "BaseRestorationRate": 4.5,
       "BipodAimDrainRateMultiplier": 0.2,
       "Capacity": 115,
       "ClimbLegsConsumption": {
@@ -36595,7 +36595,7 @@
       "GrenadeHighThrow": 11,
       "GrenadeLowThrow": 8,
       "HandsCapacity": 80,
-      "HandsRestoration": 21,
+      "HandsRestoration": 2.1,
       "HoldBreathStaminaMultiplier": {
         "x": 2,
         "y": 1,
@@ -36642,8 +36642,8 @@
       "SprintAccelerationLowerLimit": 0.8,
       "SprintDrainRate": 4,
       "SprintOverweightLimits": {
-        "x": 2600,
-        "y": 7200,
+        "x": 26,
+        "y": 72,
         "z": 0
       },
       "SprintSensitivityLowerLimit": 0.5,
@@ -36677,13 +36677,13 @@
         "z": 0
       },
       "WalkOverweightLimits": {
-        "x": 4500,
-        "y": 8600,
+        "x": 45,
+        "y": 86,
         "z": 0
       },
       "WalkSpeedOverweightLimits": {
-        "x": 3500,
-        "y": 8000,
+        "x": 35,
+        "y": 80,
         "z": 0
       },
       "WalkVisualEffectMultiplier": 0.1,

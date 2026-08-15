@@ -16,10 +16,10 @@
     "excluded_category": [
       "62e9103049c018f425059f38"
     ],
-    "max_return_hour": 0,
+    "max_return_hour": 20,
     "max_storage_time": 144,
     "min_payment": 0,
-    "min_return_hour": 0
+    "min_return_hour": 10
   },
   "isAvailableInPVE": true,
   "isCanTransferItems": false,
